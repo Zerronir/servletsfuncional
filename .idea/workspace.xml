@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb8dab00-cc64-476a-82cb-7bad80e25d8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jTJiipydbBXdyMAFz5abZJMVdV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="servlest2 [package,tomcat7:run-war-only]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="tomcat7:run-war-only" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb8dab00-cc64-476a-82cb-7bad80e25d8a" name="Default Changelist" comment="" />
+      <created>1603822276133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603822276133</updated>
+      <workItem from="1603822290062" duration="4372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="280" y="84" width="1071" height="843" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603822836765">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="280" y="84" width="1071" height="843" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1603822836765" />
+    <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser" timestamp="1603824551814">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="247" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1603824551814" />
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom" timestamp="1603825565586">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1603825565586" />
+    <state width="1638" height="261" key="GridCell.Tab.0.center" timestamp="1603825565584">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1603825565584" />
+    <state width="1638" height="261" key="GridCell.Tab.0.left" timestamp="1603825565584">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1603825565584" />
+    <state width="1638" height="261" key="GridCell.Tab.0.right" timestamp="1603825565585">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="261" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1603825565585" />
+  </component>
+</project>
