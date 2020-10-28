@@ -14,10 +14,18 @@
     <title>Title</title>
 </head>
 <body>
-<form action="/post" method="post">
-    Nom: <input type="text" name="nom"> <br>
-    DNI: <input type="text" name="dni"> <br>
-    <button type="submit">Enviar</button>
-</form>
+
+    <c:choose>
+
+        <c:when test="${not empty nom}">
+            <p>Hola, ${nom}</p>
+        </c:when>
+
+        <c:otherwise>
+
+        </c:otherwise>
+
+    </c:choose>
+
 </body>
 </html>
