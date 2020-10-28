@@ -44,7 +44,7 @@ public class postServlet extends HttpServlet {
             if(lletra == lletraCalc) {
                 return true;
             }
-
+            return false;
         }
 
         return false;
