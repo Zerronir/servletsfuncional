@@ -22,7 +22,7 @@
         </c:when>
 
         <c:otherwise>
-
+            <p>El dni ${dni} no es correcto</p>
         </c:otherwise>
 
     </c:choose>
