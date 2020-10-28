@@ -21,7 +21,7 @@ public class postServlet extends HttpServlet {
         String dni = req.getParameter("dni");
 
         if(isDNIValid(dni)) {
-
+            req.setAttribute("nom", nom);
         }
 
         RequestDispatcher dispatcher = req.getRequestDispatcher("/WEB-INF/jsp/post2.jsp");

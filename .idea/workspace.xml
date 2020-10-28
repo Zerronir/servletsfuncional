@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb8dab00-cc64-476a-82cb-7bad80e25d8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/postServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/postServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-10-28" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-10-28" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603822276133</updated>
       <workItem from="1603822290062" duration="4372000" />
-      <workItem from="1603908216627" duration="675000" />
+      <workItem from="1603908216627" duration="712000" />
     </task>
     <servers />
   </component>
