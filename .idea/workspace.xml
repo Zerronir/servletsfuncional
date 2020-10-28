@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb8dab00-cc64-476a-82cb-7bad80e25d8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/getServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/postServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/get.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/post.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servlest2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ServletAndView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ServletAndView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/servlest2.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/servlest2.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/servlest2/WEB-INF/classes/ServletAndView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/servlest2/WEB-INF/classes/ServletAndView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/postServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/postServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-10-28" beforeDir="false" afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-10-28" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +35,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Raul\Desktop\FPGSDAW\Segundo\Servidor\servletsfuncional\src\main\webapp\WEB-INF\jsp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603822276133</updated>
       <workItem from="1603822290062" duration="4372000" />
-      <workItem from="1603908216627" duration="572000" />
+      <workItem from="1603908216627" duration="675000" />
     </task>
     <servers />
   </component>

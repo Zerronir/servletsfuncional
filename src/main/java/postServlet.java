@@ -16,7 +16,19 @@ public class postServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
+        String nom = req.getParameter("nom");
+        String dni = req.getParameter("dni");
+
+        if(isDNIValid(dni)) {
+
+        }
+
         RequestDispatcher dispatcher = req.getRequestDispatcher("/WEB-INF/jsp/post2.jsp");
         dispatcher.forward(req, resp);
+    }
+
+    private boolean isDNIValid(String dni) {
+        return true;
     }
 }
