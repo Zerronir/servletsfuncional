@@ -5,6 +5,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 @WebServlet("/post")
 public class postServlet extends HttpServlet {
@@ -29,6 +31,22 @@ public class postServlet extends HttpServlet {
     }
 
     private boolean isDNIValid(String dni) {
-        return true;
+
+        Pattern pattern = Pattern.compile("^(\\d{8})(.)($)");
+        Matcher matcher = pattern.matcher(dni);
+
+        if(matcher.matches()){
+            char lletra = matcher.group(2).toUpperCase().charAt(0);
+            int numero = Integer.parseInt(matcher.group(1));
+            int modulo = numero % 23;
+            char lletraCalc = "TRWAGMYFPDXBNJZSQVHLCKE".charAt(modulo);
+
+            if(lletra == lletraCalc) {
+                return true;
+            }
+
+        }
+
+        return false;
     }
 }
